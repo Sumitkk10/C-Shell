@@ -20,7 +20,7 @@ Welcome to C-Shell, a powerful and customizable Unix shell implemented in the C 
  `git clone https://github.com/your-username/C-Shell.git`\
 `cd C-Shell`
 
-* Compile and Run:
+* Compile and Run: \
 `make` \
 `./a.out`
 
