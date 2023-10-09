@@ -21,7 +21,7 @@ Welcome to C-Shell, a powerful and customizable Unix shell implemented in the C 
 `cd C-Shell`
 
 * Compile and Run:
-`make`
+`make` \
 `./a.out`
 
 # Description
