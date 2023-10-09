@@ -1,4 +1,29 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/76mHqLr5)
+
+# C-Shell: A Feature-Rich Linux Shell Implementation in C
+
+Welcome to C-Shell, a powerful and customizable Unix shell implemented in the C programming language. This project showcases the versatility of system calls in Linux, offering a robust and user-friendly shell experience.
+
+# Features:
+
+* System Calls Galore: Leverage the strength of various Linux system calls to achieve efficient process management, file manipulation, and I/O operations.
+
+* Interactive Command Line: Enjoy an interactive command-line interface that supports a wide array of commands, providing a seamless user experience.
+
+* Customization Options: Tailor the shell to your needs with customizable configurations, aliases, and prompt settings.
+
+* Process Management: Efficiently handle processes with built-in functionalities for background processes, job control, and signal handling.
+
+* File Operations: Leverage file-related system calls for file manipulation, redirection, and piping to enhance the shell's file-handling capabilities.
+
+# Getting Started:
+* Clone the Repository:
+ `git clone https://github.com/your-username/C-Shell.git`
+`cd C-Shell`
+
+* Compile and Run:
+`make`
+`./a.out`
+
 # Description
 
 - **header.h** contains all the header files being used in this codebase along with global variables/arrays which are being used using extern to use it in different files.
