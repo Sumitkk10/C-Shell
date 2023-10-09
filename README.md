@@ -15,7 +15,7 @@ Welcome to C-Shell, a powerful and customizable Unix shell implemented in the C 
 
 * File Operations: Leverage file-related system calls for file manipulation, redirection, and piping to enhance the shell's file-handling capabilities.
 
-# Getting Started: \
+# Getting Started: 
 * Clone the Repository: \
  `git clone https://github.com/your-username/C-Shell.git`\
 `cd C-Shell`
