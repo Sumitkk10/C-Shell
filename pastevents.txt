@@ -1,0 +1,11 @@
+warp ..
+proclore
+sleep 8 &;
+echo my name is chicka chicka chicka
+warp ../../../../../
+seek OSN
+seek Code
+seek a
+seek -f a ./Code
+seke -f a ./Code/Cprogramming
+seek -fe a ./Code/Cprogramming
